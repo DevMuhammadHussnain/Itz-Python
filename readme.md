@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=3776AB&center=true&vCenter=true&width=700&lines=Python+Projects;Experiments+%26+Tools;Automation+%26+Utilities;Learning+by+Building" alt="Typing Animation">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=3" width="80%" alt="Divider">
+
 <p>
   <strong>A collection of Python projects, experiments, tools, utilities, and ideas.</strong>
 </p>
@@ -14,6 +18,13 @@
   <img src="https://img.shields.io/github/repo-size/DevMuhammadHussnain/Itz-Python?style=for-the-badge&logo=github&logoColor=white" alt="Repository Size">
   <img src="https://img.shields.io/github/license/DevMuhammadHussnain/Itz-Python?style=for-the-badge" alt="License">
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DevMuhammadHussnain&repo=Itz-Python&style=for-the-badge&color=3776AB" alt="Repository Views">
+</p>
+
+<br/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash" alt="Technology Icons">
 
 </div>
 
@@ -42,6 +53,12 @@ The repository will evolve continuously as new projects are created.
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=3776AB&center=true&vCenter=true&width=600&lines=Code+%E2%86%92+Experiment+%E2%86%92+Learn;Build+Something+Every+Day;Python+%7C+Automation+%7C+Tools;Learning+by+Building" alt="Animated Section">
+
+</div>
+
 ## Repository Philosophy
 
 ```text
@@ -66,11 +83,23 @@ The goal is to **build, learn, experiment, and improve**.
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=100&section=header&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20FIX%20%E2%80%A2%20LEARN&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Build Break Fix Learn">
+
+</div>
+
+---
+
 ## Technology
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" alt="Python">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,powershell,sqlite" alt="Development Technologies">
 
 </div>
 
@@ -87,6 +116,16 @@ The goal is to **build, learn, experiment, and improve**.
 Individual projects may use additional frameworks and libraries.
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=700&color=3776AB&center=true&vCenter=true&width=650&lines=PROJECTS;Python+Tools;Automation;Experiments;Utilities;Learning+Projects" alt="Projects Animation">
+
+<br><br>
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350" alt="Coding Animation">
+
+</div>
 
 # Projects
 
@@ -112,6 +151,14 @@ Itz-Python/
 ```
 
 Each significant project should have its own documentation explaining its purpose, installation, usage, configuration, warnings, and limitations.
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,bash,linux" alt="Project Technologies">
+
+</div>
 
 ---
 
@@ -143,6 +190,12 @@ Projects created while learning new Python concepts and technologies.
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=600&color=3776AB&center=true&vCenter=true&width=600&lines=Experiment;Develop;Test;Improve;Repeat" alt="Development Animation">
+
+</div>
+
 # Project Status
 
 This repository contains projects at different stages of development.
@@ -158,6 +211,12 @@ This repository contains projects at different stages of development.
 Individual project READMEs should contain the current status of each project.
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=GET%20STARTED&fontSize=32&fontColor=3776AB&animation=fadeIn" alt="Get Started">
+
+</div>
 
 # Getting Started
 
@@ -201,6 +260,18 @@ pip install -r requirements.txt
 
 ---
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,apple" alt="Platform Icons">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3776AB&center=true&vCenter=true&width=650&lines=macOS;Windows;Linux;Python+Everywhere" alt="Platform Animation">
+
+</div>
+
+---
+
 # Environment Variables
 
 Projects that require environment variables should provide an example file:
@@ -217,6 +288,18 @@ OUTPUT_DIR=./output
 ```
 
 Actual `.env` files containing secrets should **never** be committed.
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Security Animation">
+
+<br>
+
+<img src="https://img.shields.io/badge/Keep-Secrets%20Safe-3776AB?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Keep Secrets Safe">
+
+</div>
 
 ---
 
@@ -262,6 +345,14 @@ Use the `requirements.txt` provided inside the relevant project whenever availab
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=500&color=3776AB&center=true&vCenter=true&width=650&lines=Errors+are+part+of+the+process;Debug;Understand;Fix;Move+Forward" alt="Debug Animation">
+
+</div>
+
+---
+
 # Possible Errors
 
 Different projects can produce different errors.
@@ -279,6 +370,14 @@ KeyError
 ```
 
 If a project provides its own error documentation, follow that project's `README.md`.
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,bash,vscode" alt="Development Icons">
+
+</div>
 
 ---
 
@@ -304,6 +403,14 @@ Individual project READMEs provide the technical details.
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=90&section=header&text=ROADMAP&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Roadmap">
+
+</div>
+
+---
+
 # Roadmap
 
 Future additions to this repository may include:
@@ -321,6 +428,14 @@ Future additions to this repository may include:
 - More advanced Python applications
 
 The repository will grow organically with new projects.
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=700&color=3776AB&center=true&vCenter=true&width=650&lines=Ideas+become+projects;Projects+become+experience;Experience+becomes+skill" alt="Learning Animation">
+
+</div>
 
 ---
 
@@ -342,14 +457,22 @@ Individual projects may use different licenses when explicitly specified in thei
 
 ---
 
+<br>
+
 <div align="center">
 
-## Python • Build • Experiment • Learn
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Technology Logos">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=3776AB&center=true&vCenter=true&width=700&lines=Python+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Learn;Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Improve;Keep+Building+%F0%9F%90%8D" alt="Footer Typing Animation">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=footer" alt="Footer Banner">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash,sqlite" alt="Technology Logos">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadHussnain&repo=Itz-Python&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=footer" width="100%" alt="Footer Banner">
 
 </div>
