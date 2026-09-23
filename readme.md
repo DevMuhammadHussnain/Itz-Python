@@ -7,6 +7,9 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=3" width="80%" alt="Divider">
+<br/>
+<br/>
+<br/>
 
 <p>
   <strong>A collection of Python projects, experiments, tools, utilities, and ideas.</strong>
@@ -466,10 +469,6 @@ Individual projects may use different licenses when explicitly specified in thei
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash,sqlite" alt="Technology Logos">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadHussnain&repo=Itz-Python&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
 
 <br><br>
 
