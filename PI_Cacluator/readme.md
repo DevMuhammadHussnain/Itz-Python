@@ -443,28 +443,6 @@ The displayed value should be treated as an application-level measurement rather
 
 ---
 
-# Project Structure
-
-A recommended project structure is:
-
-```text
-Itz-Python/
-│
-├── your_script.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── .env
-│
-└── DB/
-    └── .TXT/
-        └── pi_matrix_<digits>_digits.txt
-```
-
-The `.env` file and generated output files should normally remain outside version control.
-
----
-
 # Keyboard Controls
 
 | Key | Action               |
