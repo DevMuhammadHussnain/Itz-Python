@@ -108,7 +108,6 @@ This distinction between exact and approximate mathematics is one of the central
 - [Security](#security)
 - [Configuration](#configuration)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
 
@@ -1351,19 +1350,11 @@ CUI_Calculator/
 ├── LICENSE
 ├── requirements.txt
 │
-├── Modules/
-│   ├── __init__.py
-│   ├── Calc_engine.py
-│   └── Calc_service.py
-│
-└── docs/
-    ├── demo.gif
-    ├── screenshot-dark.png
-    ├── screenshot-light.png
-    ├── screenshot-algebra.png
-    ├── screenshot-tabs.png
-    ├── screenshot-matrix.png
-    └── screenshot-history.png
+└── Modules/
+    ├── __init__.py
+    ├── Calc_engine.py
+    └── Calc_service.py
+
 ```
 
 ### `main.py`
@@ -1435,8 +1426,8 @@ Recommended terminals include:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/DevMuhammadHussnain/Itz-Python.git
+cd Itz-Python/CUI_Calculator
 ```
 
 ## Create a virtual environment
